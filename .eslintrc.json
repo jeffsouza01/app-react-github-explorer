@@ -53,5 +53,5 @@
         "import/resolver": {
           "typescript": {}
         }
-      },
+      }
 }
